@@ -1,0 +1,12 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jenkins ArgoCD Demo</title>
+</head>
+<body>
+    <h1>Hello from Jenkins and ArgoCD!</h1>
+    <h2>My First CI/CD Pipeline</h2>
+    <p>Application deployed successfully on Kubernetes.</p>
+</body>
+</html>
